@@ -72,6 +72,10 @@ This Excel project involves comprehensive analysis and visualization of a laptop
      - Radar chart depicting GPU manufacturer and their average GPU price with GPU model as a filter
      - Pie chart illustrating the count of laptop types for each OS
 
+
+       ![Image Alternate Text](dashboard.png)
+
+
 ## Note
 Ensure all sheets in 'project.xlsx' retain necessary functions and formatting for proper functionality of pivot tables and the dashboard.
 
